@@ -1,0 +1,44 @@
+{
+  "name": "@folio/stripes-authorization-components",
+  "version": "1.0.0",
+  "description": "Component library for Stripes Authorization modules",
+  "publishConfig": {
+    "registry": "https://repository.folio.org/repository/npm-folio/"
+  },
+  "license": "Apache-2.0",
+  "repository": "folio-org/stripes-authorization-components",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "yarn run test:jest",
+    "test:jest": "jest --ci --coverage",
+    "test:unit": "yarn run test:jest && yarn run test:unit:report",
+    "build-mod-descriptor": "stripes mod descriptor --full --strict | jq '.[]' > module-descriptor.json ",
+    "formatjs-compile": "stripes translate compile",
+    "test:unit:report": "cp -r ./artifacts/coverage-jest ./artifacts/coverage"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@folio/eslint-config-stripes": "^7.0.0",
+    "@folio/jest-config-stripes": "^2.0.0",
+    "@folio/stripes": "^9.0.0",
+    "@folio/stripes-cli": "^3.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-intl": "^6.4.4"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "prop-types": "^15.7.2"
+  },
+  "peerDependencies": {
+    "@folio/stripes": "^9.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-intl": "^6.4.4"
+  },
+  "stripes": {
+    "actsAs": [
+      ""
+    ]
+  }
+}
