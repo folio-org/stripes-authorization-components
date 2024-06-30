@@ -1,1 +1,13 @@
-{}
+{
+  "columns.application": "Application",
+  "columns.resource": "Resource",
+  "columns.view": "View",
+  "columns.edit": "Edit",
+  "columns.create": "Create",
+  "columns.delete": "Delete",
+  "columns.manage": "Manage",
+  "columns.policies": "Policies",
+  "columns.settings": "Settings/Settings sets",
+  "columns.procedure": "Procedure",
+  "columns.execute": "Execute"
+}
