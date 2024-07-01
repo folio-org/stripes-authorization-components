@@ -6,7 +6,7 @@
       "files": ["src/**/tests/*", "*.test.js", "test/**/*"],
       "rules": {
         "react/prop-types": "off",
-        "func-names": "off",
+        "func-names": "off"
       }
     },
     {
