@@ -9,5 +9,8 @@
   "columns.policies": "Policies",
   "columns.settings": "Settings/Settings sets",
   "columns.procedure": "Procedure",
-  "columns.execute": "Execute"
+  "columns.execute": "Execute",
+  "details.data": "Data",
+  "details.settings": "Settings",
+  "details.procedural": "Procedural"
 }
