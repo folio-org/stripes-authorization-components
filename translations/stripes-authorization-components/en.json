@@ -12,5 +12,9 @@
   "columns.execute": "Execute",
   "details.data": "Data",
   "details.settings": "Settings",
-  "details.procedural": "Procedural"
+  "details.procedural": "Procedural",
+  "columns.name": "Name",
+  "columns.description": "Description",
+  "columns.updatedDate": "Updated date",
+  "columns.updatedBy": "Updated by"
 }
