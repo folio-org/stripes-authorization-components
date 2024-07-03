@@ -23,8 +23,12 @@
     "@folio/stripes": "^9.0.0",
     "@folio/stripes-cli": "^3.0.0",
     "react": "^18.2.0",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
     "react-dom": "^18.2.0",
-    "react-intl": "^6.4.4"
+    "react-intl": "^6.4.4",
+    "lodash": "^4.17.11",
+    "react-query": "^3.6.0"
   },
   "dependencies": {
     "classnames": "^2.2.6",
