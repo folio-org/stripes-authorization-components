@@ -14,16 +14,16 @@
 }
 
 .alignRightWrapper{
-    display: flex;
-    justify-content: flex-end;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .gridCheckbox {
-    margin-left: 24px;
+  margin-left: 24px;
 }
 
 .gutterTop{
-    margin-block-start: var(--gutter);
+  margin-block-start: var(--gutter);
 }
 
 .loadingInTitle{
