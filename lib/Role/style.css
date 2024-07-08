@@ -1,0 +1,9 @@
+.RoleFormRoot {
+	height: 100%;
+	overflow: auto;
+}
+
+.alignRightWrapper{
+	display: flex;
+	justify-content: flex-end;
+}

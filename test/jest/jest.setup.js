@@ -1,1 +1,1 @@
-import '../__mock__';
+import './__mock__';
