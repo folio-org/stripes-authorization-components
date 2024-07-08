@@ -1,4 +1,3 @@
-import React from 'react';
 import { render } from '@folio/jest-config-stripes/testing-library/react';
 
 import Harness from './Harness';
