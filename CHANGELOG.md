@@ -6,3 +6,4 @@
 * [UISAUTHCOM-5](https://folio-org.atlassian.net/browse/UISAUTHCOM-5) Add formatter to highlight unique values in CapabilitySection.
 * [UISAUTHCOM-1](https://folio-org.atlassian.net/browse/UISAUTHCOM-1)Move reusable components from UIROLES to a shared repository.
 * [UISAUTHCOM-6](https://folio-org.atlassian.net/browse/UISAUTHCOM-6) add `expand` parameter to queryKey in useRoleCapabailities hook.
+
