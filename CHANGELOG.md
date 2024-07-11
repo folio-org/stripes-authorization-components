@@ -6,4 +6,5 @@
 * [UISAUTHCOM-5](https://folio-org.atlassian.net/browse/UISAUTHCOM-5) Add formatter to highlight unique values in CapabilitySection.
 * [UISAUTHCOM-1](https://folio-org.atlassian.net/browse/UISAUTHCOM-1)Move reusable components from UIROLES to a shared repository.
 * [UISAUTHCOM-6](https://folio-org.atlassian.net/browse/UISAUTHCOM-6) add `expand` parameter to queryKey in useRoleCapabilities hook.
+* [UISAUTHCOM-7](https://folio-org.atlassian.net/browse/UISAUTHCOM-7) Fix definitaion and calls to useRoleCapabilities/useRoleCapabilitySets so correct value is used for X-Okapi-Tenant.
 
