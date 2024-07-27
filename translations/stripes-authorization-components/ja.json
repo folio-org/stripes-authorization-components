@@ -19,9 +19,9 @@
     "columns.description": "Description",
     "columns.updatedDate": "Updated",
     "columns.updatedBy": "Updated by",
-    "assignedUsers": "Assigned users",
-    "assignUnassign": "Assign/Unassign",
-    "generalInformation": "General Information",
+    "assignedUsers": "割り当てられたユーザー",
+    "assignUnassign": "割り当て/割り当て解除",
+    "generalInformation": "一般情報",
     "details.capabilities": "Capabilities",
     "details.capabilitySets": "Capability sets",
     "details.nonSinglePolicyText": "* indicates one or more policies are set for the action.",
@@ -40,6 +40,6 @@
     "applications.found": "{count} applications found",
     "applications.totalSelected": "Total selected: {count}",
     "applications": "Applications",
-    "role-details.accordion-users.columns.fullName": "Name",
-    "role-details.accordion-users.columns.patronGroup": "Patron group"
+    "role-details.accordion-users.columns.fullName": "名称",
+    "role-details.accordion-users.columns.patronGroup": "利用者グループ"
 }
