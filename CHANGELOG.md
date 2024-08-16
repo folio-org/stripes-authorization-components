@@ -10,3 +10,4 @@
 * [UISAUTHCOM-10](https://folio-org.atlassian.net/browse/UISAUTHCOM-10) clean up query cache on close edit role mode.
 * [UISAUTHCOM-9](https://folio-org.atlassian.net/browse/UISAUTHCOM-9) conditionally set values of selected capabilities/sets to true if checked and remove from object if NOT.
 * [UISAUTHCOM-11](https://folio-org.atlassian.net/browse/UISAUTHCOM-11) Move reusable components from `ui-authorization-policies` repository.
+* [UISAUTHCOM-12](https://folio-org.atlassian.net/browse/UISAUTHCOM-12) Ensure support for the passed `tenantId` value for manipulations in the context of a specific tenant.
