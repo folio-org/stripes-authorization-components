@@ -16,7 +16,7 @@
     "search": "Search",
     "new": "New",
     "columns.name": "Name",
-    "columns.description": "Description",
+    "columns.description": "Opis",
     "columns.updatedDate": "Updated",
     "columns.updatedBy": "Updated by",
     "assignedUsers": "Assigned users",
@@ -34,12 +34,14 @@
     "crud.edit": "Edit",
     "crud.delete": "Usuń",
     "form.labels.name": "Name",
-    "form.labels.description": "Description",
+    "form.labels.description": "Opis",
     "form.labels.multiplePolicies": "Multiple policies on action {action}",
     "applications.select": "Select application",
     "applications.found": "{count} applications found",
     "applications.totalSelected": "Total selected: {count}",
     "applications": "Applications",
     "role-details.accordion-users.columns.fullName": "Name",
-    "role-details.accordion-users.columns.patronGroup": "Patron group"
+    "role-details.accordion-users.columns.patronGroup": "Patron group",
+    "policyDetails.columns.name": "Name",
+    "policyDetails.columns.description": "Description"
 }
