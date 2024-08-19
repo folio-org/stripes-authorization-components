@@ -41,5 +41,7 @@
     "applications.totalSelected": "Celkem vybráno: {count}",
     "applications": "Aplikace",
     "role-details.accordion-users.columns.fullName": "Jméno",
-    "role-details.accordion-users.columns.patronGroup": "Kategorie čtenáře"
+    "role-details.accordion-users.columns.patronGroup": "Kategorie čtenáře",
+    "policyDetails.columns.name": "Jméno",
+    "policyDetails.columns.description": "Popis"
 }
