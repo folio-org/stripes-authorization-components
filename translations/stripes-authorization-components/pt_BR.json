@@ -41,5 +41,7 @@
     "applications.totalSelected": "Total selecionado: {count}",
     "applications": "Aplicativos",
     "role-details.accordion-users.columns.fullName": "Nome",
-    "role-details.accordion-users.columns.patronGroup": "Grupo de usuários"
+    "role-details.accordion-users.columns.patronGroup": "Grupo de usuários",
+    "policyDetails.columns.name": "Nome",
+    "policyDetails.columns.description": "Descrição"
 }
