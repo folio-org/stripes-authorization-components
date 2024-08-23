@@ -12,3 +12,4 @@
 * [UISAUTHCOM-11](https://folio-org.atlassian.net/browse/UISAUTHCOM-11) Move reusable components from `ui-authorization-policies` repository.
 * [UISAUTHCOM-13](https://folio-org.atlassian.net/browse/UISAUTHCOM-13) Cleanup only capabilities related queries from react-query cache on close edit role.
 * [UISAUTHCOM-12](https://folio-org.atlassian.net/browse/UISAUTHCOM-12) Ensure support for the passed `tenantId` value for manipulations in the context of a specific tenant.
+* [UISAUTHCOM-14](https://folio-org.atlassian.net/browse/UISAUTHCOM-14) Allow `<RoleDetails>` and `<PolicyDetails>` components to extend the default action menu.
