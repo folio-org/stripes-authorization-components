@@ -1,6 +1,7 @@
 {
   "search": "Search",
   "new": "New",
+  "confirm": "Confirm",
   "columns.name": "Name",
   "columns.description": "Description",
   "columns.updatedDate": "Updated",
@@ -44,5 +45,7 @@
   "role-details.accordion-users.columns.patronGroup": "Patron group",
 
   "policyDetails.columns.name": "Name",
-  "policyDetails.columns.description": "Description"
+  "policyDetails.columns.description": "Description",
+  "keycloak.records.creation": "This operation will result in creation of user records in Keycloak for the following users {{users}}",
+  "keycloak.records.confirmationLabel": "Create user records in Keycloak"
 }
