@@ -46,6 +46,6 @@
 
   "policyDetails.columns.name": "Name",
   "policyDetails.columns.description": "Description",
-  "keycloak.records.creation": "This operation will result in creation of user records in Keycloak for the following users {{users}}",
+  "keycloak.records.creation": "This operation will result in creation of user records in Keycloak for the following users {users}",
   "keycloak.records.confirmationLabel": "Create user records in Keycloak"
 }
