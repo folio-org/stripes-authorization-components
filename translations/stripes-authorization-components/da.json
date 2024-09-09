@@ -43,5 +43,19 @@
     "role-details.accordion-users.columns.fullName": "Name",
     "role-details.accordion-users.columns.patronGroup": "Patron group",
     "policyDetails.columns.name": "Name",
-    "policyDetails.columns.description": "Description"
+    "policyDetails.columns.description": "Description",
+    "form.labels.policyType": "Policy type",
+    "form.labels.sourceType": "Source type",
+    "form.labels.policyType.user": "User",
+    "form.labels.policyType.time": "Time",
+    "form.labels.policyType.role": "Role",
+    "form.labels.sourceType.user": "User",
+    "form.labels.sourceType.system": "System",
+    "form.labels.sourceType.consortium": "Consortium",
+    "policy.edit": "Edit policy",
+    "policy.create": "Create policy",
+    "policy.create.success": "Policy has been created successfully",
+    "policy.edit.success": "Policy has been updated successfully",
+    "policy.create.error": "Policy could not be created",
+    "policy.edit.error": "Policy could not be updated"
 }
