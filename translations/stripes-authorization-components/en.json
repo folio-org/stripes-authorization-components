@@ -14,6 +14,7 @@
   "details.settings": "Settings",
   "details.procedural": "Procedural",
   "details.nonSinglePolicyText": "* indicates one or more policies are set for the action.",
+  "details.centrallyManaged": "Centrally managed",
   "columns.application": "Application",
   "columns.resource": "Resource",
   "columns.view": "View",
@@ -44,5 +45,10 @@
   "role-details.accordion-users.columns.patronGroup": "Patron group",
 
   "policyDetails.columns.name": "Name",
-  "policyDetails.columns.description": "Description"
+  "policyDetails.columns.description": "Description",
+
+  "filter.true": "Yes",
+  "filter.false": "No",
+
+  "shareToAll": "Share to all"
 }
