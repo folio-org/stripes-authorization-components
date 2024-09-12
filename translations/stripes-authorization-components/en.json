@@ -34,6 +34,7 @@
   "crud.selectApplication": "Select application",
   "crud.edit": "Edit",
   "crud.delete": "Delete",
+  "form.unassignAllCapabilities": "Unassign all capabilities/sets",
   "form.labels.name": "Name",
   "form.labels.description": "Description",
   "form.labels.multiplePolicies": "Multiple policies on action {action}",
@@ -51,14 +52,12 @@
   "applications": "Applications",
   "role-details.accordion-users.columns.fullName": "Name",
   "role-details.accordion-users.columns.patronGroup": "Patron group",
-
   "policy.edit": "Edit policy",
   "policy.create": "Create policy",
   "policy.create.success": "Policy has been created successfully",
   "policy.edit.success": "Policy has been updated successfully",
   "policy.create.error": "Policy could not be created",
   "policy.edit.error": "Policy could not be updated",
-  
   "policyDetails.columns.name": "Name",
   "policyDetails.columns.description": "Description",
 
