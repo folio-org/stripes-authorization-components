@@ -25,3 +25,4 @@
   Authorization policies for the consortium.
 * [UISAUTHCOM-18](https://folio-org.atlassian.net/browse/UISAUTHCOM-18) Add button to unassign all assigned
   capabilities/sets when editing an authorization role in RoleForm.
+* [UISAUTHCOM-19](https://folio-org.atlassian.net/browse/UISAUTHCOM-19) Create reusable hooks and components for duplicate authorization role.
