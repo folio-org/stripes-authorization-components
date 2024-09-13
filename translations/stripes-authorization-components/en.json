@@ -58,5 +58,8 @@
   "policy.create.error": "Policy could not be created",
   "policy.edit.error": "Policy could not be updated",
   "policyDetails.columns.name": "Name",
-  "policyDetails.columns.description": "Description"
+  "policyDetails.columns.description": "Description",
+  "keycloak.records.creation": "This operation will create new records in Keycloak for the following users: {users}",
+  "keycloak.records.confirmationLabel": "Create user records in Keycloak",
+  "keycloak.records.checking": "Checking Keycloak records for the selected users"
 }
