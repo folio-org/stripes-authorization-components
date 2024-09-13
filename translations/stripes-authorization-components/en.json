@@ -1,7 +1,6 @@
 {
   "search": "Search",
   "new": "New",
-  "confirm": "Confirm",
   "columns.name": "Name",
   "columns.description": "Description",
   "columns.updatedDate": "Updated",
@@ -59,7 +58,7 @@
   "policy.edit.error": "Policy could not be updated",
   "policyDetails.columns.name": "Name",
   "policyDetails.columns.description": "Description",
-  "keycloak.records.creation": "This operation will result in creation of user records in Keycloak for the following users {users}",
+  "keycloak.records.creation": "This operation will create new records in Keycloak for the following users: {users}",
   "keycloak.records.confirmationLabel": "Create user records in Keycloak",
-  "keycloak.records.checking": "Checking user records for existence in Keycloak"
+  "keycloak.records.checking": "Checking Keycloak records for the selected users"
 }
