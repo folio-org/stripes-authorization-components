@@ -1,4 +1,4 @@
-const buildStripes = (otherProperties = {}) => ({
+export const buildStripes = (otherProperties = {}) => ({
   actionNames: [],
   clone: buildStripes,
   connect: Comp => Comp,
@@ -34,6 +34,7 @@ const buildStripes = (otherProperties = {}) => ({
       id: 'b1add99d-530b-5912-94f3-4091b4d87e2c',
       username: 'diku_admin',
       consortium: {
+        id: 'consortium-id',
         centralTenantId: 'consortia',
       },
     },
@@ -82,7 +83,7 @@ const mockStripesCore = {
   useOkapiKy: jest.fn(),
   useChunkedCQLFetch: jest.fn(),
 
-  useStripes: () => STRIPES,
+  useStripes: jest.fn(() => STRIPES),
 
   withStripes: Component => ({ stripes, ...rest }) => {
     const fakeStripes = stripes || STRIPES;
