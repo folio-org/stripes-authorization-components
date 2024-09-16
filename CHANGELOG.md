@@ -19,7 +19,8 @@
 * [UISAUTHCOM-12](https://folio-org.atlassian.net/browse/UISAUTHCOM-12) Ensure support for the passed `tenantId` value for manipulations in the context of a specific tenant.
 * [UISAUTHCOM-17](https://folio-org.atlassian.net/browse/UISAUTHCOM-17) Create reusable components for editing, saving Authorization policies for the consortium.
 * [UISAUTHCOM-15](https://folio-org.atlassian.net/browse/UISAUTHCOM-15) Check if user exists in Keycloak on assign users to role. If not show confirmation dialog to create user records in Keycloak.
-* [UISAUTHCOM-18](https://folio-org.atlassian.net/browse/UISAUTHCOM-18) Add button to unassign all assigned capabilities/sets when editing an authorization role in RoleForm.
+* [UISAUTHCOM-18](https://folio-org.atlassian.net/browse/UISAUTHCOM-18) Add button to unassign all assigned capabilities/sets when editing an authorization role in RoleForm. 
+* [UISAUTHCOM-19](https://folio-org.atlassian.net/browse/UISAUTHCOM-19) Create reusable hooks and components for duplicate authorization role.
 * [UISAUTHCOM-14](https://folio-org.atlassian.net/browse/UISAUTHCOM-14) ECS - Support sharing of authorization roles and policies.
 * [UISAUTHCOM-20](https://folio-org.atlassian.net/browse/UISAUTHCOM-20) ECS - Prevent editing of shared Role from outside "Consortium manager".
 * [UISAUTHCOM-21](https://folio-org.atlassian.net/browse/UISAUTHCOM-21) ECS - Prevent editing of shared Policies from outside "Consortium manager".
