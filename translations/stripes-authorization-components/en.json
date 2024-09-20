@@ -52,6 +52,7 @@
   "applications.found": "{count} applications found",
   "applications.totalSelected": "Total selected: {count}",
   "applications": "Applications",
+  "applications.notAvailable": "Select application is not available",
   "role-details.accordion-users.columns.fullName": "Name",
   "role-details.accordion-users.columns.patronGroup": "Patron group",
   "policy.edit": "Edit policy",
