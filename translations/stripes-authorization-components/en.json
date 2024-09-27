@@ -3,6 +3,7 @@
   "new": "New",
   "columns.name": "Name",
   "columns.description": "Description",
+  "columns.type": "Type",
   "columns.updatedDate": "Updated",
   "columns.updatedBy": "Updated by",
   "assignedUsers": "Assigned users",
@@ -65,6 +66,11 @@
   "policy.edit.error": "Policy could not be updated",
   "policyDetails.columns.name": "Name",
   "policyDetails.columns.description": "Description",
+
+  "role.type.default": "Default",
+  "role.type.support": "Support",
+  "role.type.regular": "Regular",
+  "role.type.consortium": "Consortium",
 
   "filter.true": "Yes",
   "filter.false": "No",
