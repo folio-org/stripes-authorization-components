@@ -14,6 +14,7 @@
   "details.settings": "Settings",
   "details.procedural": "Procedural",
   "details.nonSinglePolicyText": "* indicates one or more policies are set for the action.",
+  "details.centrallyManaged": "Centrally managed",
   "columns.application": "Application",
   "columns.resource": "Resource",
   "columns.view": "View",
@@ -64,6 +65,12 @@
   "policy.edit.error": "Policy could not be updated",
   "policyDetails.columns.name": "Name",
   "policyDetails.columns.description": "Description",
+
+  "filter.true": "Yes",
+  "filter.false": "No",
+
+  "shareToAll": "Share to all",
+
   "keycloak.records.creation": "This operation will create new records in Keycloak for the following users: {users}",
   "keycloak.records.confirmationLabel": "Create user records in Keycloak",
   "keycloak.records.checking": "Checking Keycloak records for the selected users"
