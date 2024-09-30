@@ -62,5 +62,6 @@
   "keycloak.records.creation": "This operation will create new records in Keycloak for the following users: {users}",
   "keycloak.records.confirmationLabel": "Create user records in Keycloak",
   "keycloak.records.checking": "Checking Keycloak records for the selected users",
-  "form.unassignAllCapabilities": "Unassign all capabilities/sets"
+  "form.unassignAllCapabilities": "Unassign all capabilities/sets",
+  "keycloak.records.created": "Keycloak records created for the following users: {users}"
 }

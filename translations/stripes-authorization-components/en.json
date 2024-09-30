@@ -65,13 +65,11 @@
   "policy.edit.error": "Policy could not be updated",
   "policyDetails.columns.name": "Name",
   "policyDetails.columns.description": "Description",
-
   "filter.true": "Yes",
   "filter.false": "No",
-
   "shareToAll": "Share to all",
-
   "keycloak.records.creation": "This operation will create new records in Keycloak for the following users: {users}",
   "keycloak.records.confirmationLabel": "Create user records in Keycloak",
-  "keycloak.records.checking": "Checking Keycloak records for the selected users"
+  "keycloak.records.checking": "Checking Keycloak records for the selected users",
+  "keycloak.records.created": "Keycloak records created for the following users: {users}"
 }
