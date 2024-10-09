@@ -26,3 +26,4 @@
 * [UISAUTHCOM-20](https://folio-org.atlassian.net/browse/UISAUTHCOM-20) ECS - Prevent editing of shared Role from outside "Consortium manager".
 * [UISAUTHCOM-21](https://folio-org.atlassian.net/browse/UISAUTHCOM-21) ECS - Prevent editing of shared Policies from outside "Consortium manager".
 * [UISAUTHCOM-23](https://folio-org.atlassian.net/browse/UISAUTHCOM-23) Display toast message for saving and editing authorization roles.
+* [UISAUTHCOM-16](https://folio-org.atlassian.net/browse/UISAUTHCOM-16) Provide maxHeight to the capabilities tables.
