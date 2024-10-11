@@ -28,3 +28,4 @@
 * [UISAUTHCOM-23](https://folio-org.atlassian.net/browse/UISAUTHCOM-23) Display toast message for saving and editing authorization roles.
 * [UISAUTHCOM-16](https://folio-org.atlassian.net/browse/UISAUTHCOM-16) Provide maxHeight to the capabilities tables.
 * [UISAUTHCOM-25](https://folio-org.atlassian.net/browse/UISAUTHCOM-25) Update user capability hooks.
+* [UISAUTHCOM-24](https://folio-org.atlassian.net/browse/UISAUTHCOM-24) Hide "edit" and "share" actions for policies.
