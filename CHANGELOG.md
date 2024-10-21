@@ -29,3 +29,4 @@
 * [UISAUTHCOM-16](https://folio-org.atlassian.net/browse/UISAUTHCOM-16) Provide maxHeight to the capabilities tables.
 * [UISAUTHCOM-25](https://folio-org.atlassian.net/browse/UISAUTHCOM-25) Update user capability hooks.
 * [UISAUTHCOM-24](https://folio-org.atlassian.net/browse/UISAUTHCOM-24) Hide "edit" and "share" actions for policies.
+* [UISAUTHCOM-27](https://folio-org.atlassian.net/browse/UISAUTHCOM-27) - fix premature confirmation dialog appearance by putting Loading, MCL, ConfirmationDialog into accordion body.
