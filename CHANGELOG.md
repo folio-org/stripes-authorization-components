@@ -31,3 +31,4 @@
 * [UISAUTHCOM-24](https://folio-org.atlassian.net/browse/UISAUTHCOM-24) Hide "edit" and "share" actions for policies.
 * [UISAUTHCOM-27](https://folio-org.atlassian.net/browse/UISAUTHCOM-27) - Fix premature confirmation dialog appearance by putting Loading, MCL, ConfirmationDialog into accordion body.
 * [UISAUTHCOM-28](https://folio-org.atlassian.net/browse/UISAUTHCOM-28) - Cleanup capabilities/sets data from query cache on RoleCreate.
+* [UISAUTHCOM-29](https://folio-org.atlassian.net/browse/UISAUTHCOM-29) Protect mutation actions of roles by permissions.
