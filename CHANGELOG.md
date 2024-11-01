@@ -1,6 +1,8 @@
 # Change history for stripes-authorization-components
 
-## 1.0.0 (IN PROGRESS)
+## 1.1.0 (IN PROGRESS)
+
+## [1.0.0](https://github.com/folio-org/stripes-authorization-components/tree/v1.0.0) (2024-11-01)
 
 * [UISAUTHCOM-2](https://folio-org.atlassian.net/browse/UISAUTHCOM-2) Move component CapabilitiesSection from
   ui-authorization-roles.
@@ -12,6 +14,7 @@
   useRoleCapabilities hook.
 * [UISAUTHCOM-7](https://folio-org.atlassian.net/browse/UISAUTHCOM-7) Fix definition and calls to
   useRoleCapabilities/useRoleCapabilitySets so correct value is used for X-Okapi-Tenant.
+* [UISAUTHCOM-8](https://folio-org.atlassian.net/browse/UISAUTHCOM-8) Add hooks for fetching users capabilities.
 * [UISAUTHCOM-10](https://folio-org.atlassian.net/browse/UISAUTHCOM-10) Clean up query cache on close edit role mode.
 * [UISAUTHCOM-9](https://folio-org.atlassian.net/browse/UISAUTHCOM-9) Conditionally set values of selected capabilities/sets to true if checked and remove from object if NOT.
 * [UISAUTHCOM-11](https://folio-org.atlassian.net/browse/UISAUTHCOM-11) Move reusable components from `ui-authorization-policies` repository.
