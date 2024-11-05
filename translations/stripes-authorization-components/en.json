@@ -8,6 +8,7 @@
   "columns.updatedBy": "Updated by",
   "assignedUsers": "Assigned users",
   "assignUnassign": "Assign/Unassign",
+  "assignUnassign.modal.label": "Select User ({tenant})",
   "generalInformation": "General Information",
   "details.capabilities": "Capabilities",
   "details.capabilitySets": "Capability sets",
