@@ -4,6 +4,7 @@
 
 * [UISAUTHCOM-36](https://folio-org.atlassian.net/browse/UISAUTHCOM-36) Avoid extra capability requests for role sharing when not in central tenant
 * [UISAUTHCOM-37](https://folio-org.atlassian.net/browse/UISAUTHCOM-37) ECS - Add Tenant identifier to title of Select user modal.
+* [UISAUTHCOM-38](https://folio-org.atlassian.net/browse/UISAUTHCOM-38) Include "create" and "delete" actions in "settings" capability/capabilitySet accordions
 
 ## [1.0.0](https://github.com/folio-org/stripes-authorization-components/tree/v1.0.0) (2024-11-01)
 
