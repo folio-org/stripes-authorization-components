@@ -86,5 +86,6 @@
     "role.type.default": "Default",
     "role.type.support": "Support",
     "role.type.regular": "Regular",
-    "role.type.consortium": "Consortium"
+    "role.type.consortium": "Consortium",
+    "assignUnassign.modal.label": "Select user ({tenant})"
 }
