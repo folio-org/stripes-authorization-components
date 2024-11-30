@@ -86,5 +86,6 @@
     "role.type.default": "Padrão",
     "role.type.support": "Suporte",
     "role.type.regular": "Regular",
-    "role.type.consortium": "Consórcio"
+    "role.type.consortium": "Consórcio",
+    "assignUnassign.modal.label": "Selecione o usuário ({tenant})"
 }

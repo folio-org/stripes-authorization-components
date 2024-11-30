@@ -86,5 +86,6 @@
     "role.type.default": "Výchozí",
     "role.type.support": "Podpora",
     "role.type.regular": "Pravidelně",
-    "role.type.consortium": "Konsorcium"
+    "role.type.consortium": "Konsorcium",
+    "assignUnassign.modal.label": "Vybrat uživatele ({tenant})"
 }
