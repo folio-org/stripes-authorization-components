@@ -9,6 +9,8 @@
 * [UISAUTHCOM-37](https://folio-org.atlassian.net/browse/UISAUTHCOM-37) ECS - Add Tenant identifier to title of Select user modal.
 * [UISAUTHCOM-38](https://folio-org.atlassian.net/browse/UISAUTHCOM-38) Include "create" and "delete" actions in "settings" capability/capabilitySet accordions
 * [UISAUTHCOM-39](https://folio-org.atlassian.net/browse/UISAUTHCOM-39) Enforce new "manage" permission set and hide action menu if no actions are available.
+* [UISAUTHCOM-40](https://folio-org.atlassian.net/browse/UISAUTHCOM-40) Add ability to select entire columns of capabilities in each capability/capabilitySet grid/accordion.
+* [UISAUTHCOM-41](https://folio-org.atlassian.net/browse/UISAUTHCOM-41) Fix disabled the issue with capabilities included in capability set are not deselected when deselecting a set.
 
 ## [1.0.0](https://github.com/folio-org/stripes-authorization-components/tree/v1.0.0) (2024-11-01)
 
