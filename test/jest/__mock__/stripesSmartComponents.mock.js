@@ -2,6 +2,7 @@ import React from 'react';
 
 jest.mock('@folio/stripes/smart-components', () => ({
   ...jest.requireActual('@folio/stripes/smart-components'),
+  LinkedUser: (user) => <a href={`/${user?.id}`}>{user ?? JSON.stringify(user)}</a>,
   LocationLookup: () => <div>LocationLookup</div>,
   ViewMetaData: () => <div>ViewMetaData</div>,
   ControlledVocab: jest.fn(() => <div>ControlledVocab</div>),
