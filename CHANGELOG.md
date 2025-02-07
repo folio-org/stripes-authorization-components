@@ -1,6 +1,9 @@
 # Change history for stripes-authorization-components
 
-## 1.1.0 (IN PROGRESS)
+## [1.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v1.0.2) (2025-02-07)
+[Full Changelog](https://github.com/folio-org/stripes-acq-components/compare/v1.0.1...v1.0.2)
+
+* [UISAUTHCOM-43](https://folio-org.atlassian.net/browse/UISAUTHCOM-43) Fix capabilities from unselected application sometimes shown as assigned for a role after editing.
 
 ## [1.0.1](https://github.com/folio-org/stripes-authorization-components/tree/v1.0.1) (2024-11-08)
 [Full Changelog](https://github.com/folio-org/stripes-acq-components/compare/v1.0.0...v1.0.1)
@@ -8,7 +11,6 @@
 * [UISAUTHCOM-36](https://folio-org.atlassian.net/browse/UISAUTHCOM-36) Avoid extra capability requests for role sharing when not in central tenant
 * [UISAUTHCOM-37](https://folio-org.atlassian.net/browse/UISAUTHCOM-37) ECS - Add Tenant identifier to title of Select user modal.
 * [UISAUTHCOM-38](https://folio-org.atlassian.net/browse/UISAUTHCOM-38) Include "create" and "delete" actions in "settings" capability/capabilitySet accordions
-* [UISAUTHCOM-43](https://folio-org.atlassian.net/browse/UISAUTHCOM-43) Fix capabilities from unselected application sometimes shown as assigned for a role after editing.
 
 ## [1.0.0](https://github.com/folio-org/stripes-authorization-components/tree/v1.0.0) (2024-11-01)
 
