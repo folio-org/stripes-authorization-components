@@ -28,6 +28,7 @@
   "columns.settings": "Settings/Settings sets",
   "columns.procedure": "Procedure",
   "columns.execute": "Execute",
+  "columns.header.checkbox": "Select all {action} capabilities",
   "crud.createRole": "Create role",
   "crud.deleteRole": "Delete role",
   "crud.deleteRoleConfirmation": "{rolename} will be deleted",
