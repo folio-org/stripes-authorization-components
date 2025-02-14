@@ -2,6 +2,8 @@
 
 ## 1.1.0 (IN PROGRESS)
 
+* [UISAUTHCOM-44](https://folio-org.atlassian.net/browse/UISAUTHCOM-44) Add Deque Axe a11y tests.
+
 ## [1.0.1](https://github.com/folio-org/stripes-authorization-components/tree/v1.0.1) (2024-11-08)
 [Full Changelog](https://github.com/folio-org/stripes-acq-components/compare/v1.0.0...v1.0.1)
 
