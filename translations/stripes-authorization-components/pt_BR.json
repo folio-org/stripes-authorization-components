@@ -87,5 +87,6 @@
     "role.type.support": "Suporte",
     "role.type.regular": "Regular",
     "role.type.consortium": "Consórcio",
-    "assignUnassign.modal.label": "Selecione o usuário ({tenant})"
+    "assignUnassign.modal.label": "Selecione o usuário ({tenant})",
+    "columns.header.checkbox": "Selecionar todas {action} de capacidades"
 }

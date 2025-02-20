@@ -87,5 +87,6 @@
     "role.type.support": "Support",
     "role.type.regular": "Regular",
     "role.type.consortium": "Consortium",
-    "assignUnassign.modal.label": "Select user ({tenant})"
+    "assignUnassign.modal.label": "Select user ({tenant})",
+    "columns.header.checkbox": "Select all {action} capabilities"
 }
