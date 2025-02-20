@@ -87,5 +87,6 @@
     "role.type.support": "支持",
     "role.type.regular": "定期",
     "role.type.consortium": "联盟",
-    "assignUnassign.modal.label": "选择用户 ( {tenant} )"
+    "assignUnassign.modal.label": "选择用户 ( {tenant} )",
+    "columns.header.checkbox": "Select all {action} capabilities"
 }
