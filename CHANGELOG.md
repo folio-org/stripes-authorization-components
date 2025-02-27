@@ -1,12 +1,17 @@
 # Change history for stripes-authorization-components
 
+## [1.0.3](https://github.com/folio-org/stripes-authorization-components/tree/v1.0.3) (2025-02-07)
+[Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v1.0.1...v1.0.3)
+
+* [UISAUTHCOM-48](https://folio-org.atlassian.net/browse/UISAUTHCOM-48) Fix capability set remains assigned after selecting and then deselecting it when creating an authorization role
+
 ## [1.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v1.0.2) (2025-02-07)
-[Full Changelog](https://github.com/folio-org/stripes-acq-components/compare/v1.0.1...v1.0.2)
+[Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v1.0.1...v1.0.2)
 
 * [UISAUTHCOM-43](https://folio-org.atlassian.net/browse/UISAUTHCOM-43) Fix capabilities from unselected application sometimes shown as assigned for a role after editing.
 
 ## [1.0.1](https://github.com/folio-org/stripes-authorization-components/tree/v1.0.1) (2024-11-08)
-[Full Changelog](https://github.com/folio-org/stripes-acq-components/compare/v1.0.0...v1.0.1)
+[Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v1.0.0...v1.0.1)
 
 * [UISAUTHCOM-36](https://folio-org.atlassian.net/browse/UISAUTHCOM-36) Avoid extra capability requests for role sharing when not in central tenant
 * [UISAUTHCOM-37](https://folio-org.atlassian.net/browse/UISAUTHCOM-37) ECS - Add Tenant identifier to title of Select user modal.
