@@ -5,6 +5,7 @@
 * [UISAUTHCOM-44](https://folio-org.atlassian.net/browse/UISAUTHCOM-44) Add Deque Axe a11y tests.
 * [UISAUTHCOM-47](https://folio-org.atlassian.net/browse/UISAUTHCOM-47) Retry get publication details request for `404` response status.
 * [UISAUTHCOM-49](https://folio-org.atlassian.net/browse/UISAUTHCOM-49) put regular role type when duplicating.
+* *BREAKING* [UISAUTHCOM-46](https://folio-org.atlassian.net/browse/UISAUTHCOM-46)migrate react-intl to v7.
 
 ## [1.0.1](https://github.com/folio-org/stripes-authorization-components/tree/v1.0.1) (2024-11-08)
 [Full Changelog](https://github.com/folio-org/stripes-acq-components/compare/v1.0.0...v1.0.1)
