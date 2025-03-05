@@ -88,5 +88,5 @@
     "role.type.regular": "Pravidelně",
     "role.type.consortium": "Konsorcium",
     "assignUnassign.modal.label": "Vybrat uživatele ({tenant})",
-    "columns.header.checkbox": "Select all {action} capabilities"
+    "columns.header.checkbox": "Vybrat všechny možnosti {action}"
 }
