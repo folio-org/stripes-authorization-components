@@ -18,7 +18,7 @@
     "columns.name": "Name",
     "columns.description": "Description",
     "columns.updatedDate": "Updated",
-    "columns.updatedBy": "Updated by",
+    "columns.updatedBy": "Оновлено за",
     "assignedUsers": "Assigned users",
     "assignUnassign": "Assign/Unassign",
     "generalInformation": "General Information",
