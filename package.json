@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-authorization-components",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Component library for Stripes Authorization modules",
   "publishConfig": {
     "registry": "https://repository.folio.org/repository/npm-folio/"
@@ -26,7 +26,7 @@
     "jest-axe": "^9.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-intl": "^6.4.4",
+    "react-intl": "^7.1.5",
     "react-query": "^3.6.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0"
@@ -42,7 +42,7 @@
     "@folio/stripes": "^9.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-intl": "^6.4.4"
+    "react-intl": "^7.1.5"
   },
   "stripes": {
     "actsAs": [
