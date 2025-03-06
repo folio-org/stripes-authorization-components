@@ -1,6 +1,10 @@
 # Change history for stripes-authorization-components
 
-## 1.1.0 (IN PROGRESS)
+# 2.0.0 (IN PROGRESS)
+
+* *BREAKING* [UISAUTHCOM-46](https://folio-org.atlassian.net/browse/UISAUTHCOM-46)migrate react-intl to v7.
+
+## 1.1.0 
 
 * [UISAUTHCOM-44](https://folio-org.atlassian.net/browse/UISAUTHCOM-44) Add Deque Axe a11y tests.
 * [UISAUTHCOM-47](https://folio-org.atlassian.net/browse/UISAUTHCOM-47) Retry get publication details request for `404` response status.
