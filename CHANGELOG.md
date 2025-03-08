@@ -2,7 +2,8 @@
 
 # 2.0.0 (IN PROGRESS)
 
-* *BREAKING* [UISAUTHCOM-46](https://folio-org.atlassian.net/browse/UISAUTHCOM-46)migrate react-intl to v7.
+* *BREAKING* [UISAUTHCOM-46](https://folio-org.atlassian.net/browse/UISAUTHCOM-46) migrate react-intl to v7.
+* *BREAKING* [UISAUTHCOM-50](https://folio-org.atlassian.net/browse/UISAUTHCOM-50) migrate stripes dependencies to their Sunflower versions. 
 
 ## 1.1.0 
 
