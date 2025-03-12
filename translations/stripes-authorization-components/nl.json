@@ -66,7 +66,7 @@
     "crud.duplicateRole": "Duplicate role?",
     "crud.duplicateConfirmation": "Are you sure you want to create a duplicate of this role <b>{name}</b>?",
     "applications.notAvailable": "Select application is not available",
-    "crud.duplicate.suffix": "(duplicate)",
+    "crud.duplicate.suffix": "(dupliceren)",
     "details.centrallyManaged": "Centrally managed",
     "filter.true": "Yes",
     "filter.false": "No",
