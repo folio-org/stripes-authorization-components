@@ -1,7 +1,9 @@
 # Change history for stripes-authorization-components
 
-# 2.0.0 (IN PROGRESS)
+## 2.0.1 (IN PROGRESS)
 
+## 2.0.0
+*[Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v2.0.0...v1.0.3)
 * *BREAKING* [UISAUTHCOM-46](https://folio-org.atlassian.net/browse/UISAUTHCOM-46) migrate react-intl to v7.
 * *BREAKING* [UISAUTHCOM-50](https://folio-org.atlassian.net/browse/UISAUTHCOM-50) migrate stripes dependencies to their Sunflower versions. 
 
