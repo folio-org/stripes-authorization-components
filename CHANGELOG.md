@@ -6,6 +6,7 @@
 *[Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v2.0.0...v1.0.3)
 * *BREAKING* [UISAUTHCOM-46](https://folio-org.atlassian.net/browse/UISAUTHCOM-46) migrate react-intl to v7.
 * *BREAKING* [UISAUTHCOM-50](https://folio-org.atlassian.net/browse/UISAUTHCOM-50) migrate stripes dependencies to their Sunflower versions. 
+* [UISAUTHCOM-55](https://folio-org.atlassian.net/browse/UISAUTHCOM-55) Filter out any capabilities with property `dummyCapability = true` since they are invalid. API will suppress once MODROLESKC-285 is completed, but this immediately fixes the issue in the UI.
 
 ## 1.1.0 
 
