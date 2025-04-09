@@ -1,12 +1,15 @@
 # Change history for stripes-authorization-components
 
-# 2.0.0 (IN PROGRESS)
+# [2.0.1](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.1) (2025-04-09)
 
-* *BREAKING* [UISAUTHCOM-46](https://folio-org.atlassian.net/browse/UISAUTHCOM-46) migrate react-intl to v7.
-* *BREAKING* [UISAUTHCOM-50](https://folio-org.atlassian.net/browse/UISAUTHCOM-50) migrate stripes dependencies to their Sunflower versions. 
 * [UISAUTHCOM-55](https://folio-org.atlassian.net/browse/UISAUTHCOM-55) Filter out any capabilities with property `dummyCapability = true` since they are invalid. API will suppress once MODROLESKC-285 is completed, but this immediately fixes the issue in the UI.
 
-## 1.1.0 
+# [2.0.0](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.0) (2025-03-13)
+
+* *BREAKING* [UISAUTHCOM-46](https://folio-org.atlassian.net/browse/UISAUTHCOM-46) migrate react-intl to v7.
+* *BREAKING* [UISAUTHCOM-50](https://folio-org.atlassian.net/browse/UISAUTHCOM-50) migrate stripes dependencies to their Sunflower versions.
+
+## 1.1.0
 
 * [UISAUTHCOM-44](https://folio-org.atlassian.net/browse/UISAUTHCOM-44) Add Deque Axe a11y tests.
 * [UISAUTHCOM-47](https://folio-org.atlassian.net/browse/UISAUTHCOM-47) Retry get publication details request for `404` response status.
