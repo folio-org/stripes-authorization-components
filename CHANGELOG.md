@@ -1,5 +1,9 @@
 # Change history for stripes-authorization-components
 
+# [2.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.2)
+
+* [UISAUTHCOM-51](https://folio-org.atlassian.net/browse/UISAUTHCOM-51) Provide `expand=false` parameter to `useRoleCapabilities` that used in `useInitalRoleSharing` to correctly retrieve directly assigned capabilities
+
 # [2.0.1](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.1) (2025-04-09)
 
 * [UISAUTHCOM-55](https://folio-org.atlassian.net/browse/UISAUTHCOM-55) Filter out any capabilities with property `dummyCapability = true` since they are invalid. API will suppress once MODROLESKC-285 is completed, but this immediately fixes the issue in the UI.
