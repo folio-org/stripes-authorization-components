@@ -1,6 +1,6 @@
 # Change history for stripes-authorization-components
 
-# [2.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.2)
+# [2.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.2) (2025-04-16)
 
 * [UISAUTHCOM-51](https://folio-org.atlassian.net/browse/UISAUTHCOM-51) Provide `expand=false` parameter to `useRoleCapabilities` that used in `useInitalRoleSharing` to correctly retrieve directly assigned capabilities
 
