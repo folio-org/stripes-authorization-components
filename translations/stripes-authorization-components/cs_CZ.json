@@ -71,7 +71,7 @@
     "filter.true": "Ano",
     "filter.false": "Ne",
     "shareToAll": "Sdílet všem",
-    "keycloak.records.created": "Záznamy Keycloak vytvořeny pro vybrané uživatele: {users}",
+    "keycloak.records.created": "Záznamy Keycloak vytvořeny pro následující uživatele: {users}",
     "policy.share.success": "Pravidlo bylo sdíleno úspěšně",
     "policy.share.error": "Pravidlo se nepodařilo sdílet",
     "role.create.success": "Role byla úspěšně vytvořena",
