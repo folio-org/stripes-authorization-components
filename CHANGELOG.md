@@ -1,5 +1,7 @@
 # Change history for stripes-authorization-components
 
+* [UISAUTHCOM-60](https://folio-org.atlassian.net/browse/UISAUTHCOM-60) Make role details users links clickable only in settings.
+
 # [2.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.2)
 
 * [UISAUTHCOM-51](https://folio-org.atlassian.net/browse/UISAUTHCOM-51) Provide `expand=false` parameter to `useRoleCapabilities` that used in `useInitalRoleSharing` to correctly retrieve directly assigned capabilities
