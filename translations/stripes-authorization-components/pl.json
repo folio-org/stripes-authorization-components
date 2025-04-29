@@ -41,7 +41,7 @@
     "applications.totalSelected": "Total selected: {count}",
     "applications": "Applications",
     "role-details.accordion-users.columns.fullName": "Nazwa",
-    "role-details.accordion-users.columns.patronGroup": "Grupa czytelnika",
+    "role-details.accordion-users.columns.patronGroup": "Grupa czytelników",
     "policyDetails.columns.name": "Nazwa",
     "policyDetails.columns.description": "Opis",
     "form.labels.policyType": "Policy type",
