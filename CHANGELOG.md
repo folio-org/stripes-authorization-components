@@ -1,6 +1,9 @@
 # Change history for stripes-authorization-components
 
+# [2.1.0] In Progress
+
 * [UISAUTHCOM-60](https://folio-org.atlassian.net/browse/UISAUTHCOM-60) Add new `hideUserLink` prop to `RoleDetails` component that will display users in assigned users list as a text if enabled.
+* [UISAUTHCOM-59](https://folio-org.atlassian.net/browse/UISAUTHCOM-59) Increase request timeout in `useCreateRoleMutation`, `useEditRoleMutation`.
 
 # [2.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.2)
 
