@@ -1,24 +1,25 @@
 # Change history for stripes-authorization-components
 
-## 2.0.3 IN PROGRESS
+# [2.0.3](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.3) (2025-04-30)
+[Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v2.0.2...v2.0.3)
 
 * [UISAUTHCOM-59](https://folio-org.atlassian.net/browse/UISAUTHCOM-59) Increase request timeout in `useCreateRoleMutation`, `useEditRoleMutation`.
 
 # [2.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.2) (2025-04-16)
+[Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v2.0.1...v2.0.2)
 
 * [UISAUTHCOM-51](https://folio-org.atlassian.net/browse/UISAUTHCOM-51) Provide `expand=false` parameter to `useRoleCapabilities` that used in `useInitalRoleSharing` to correctly retrieve directly assigned capabilities
 
 # [2.0.1](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.1) (2025-04-09)
+[Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v2.0.0...v2.0.1)
 
 * [UISAUTHCOM-55](https://folio-org.atlassian.net/browse/UISAUTHCOM-55) Filter out any capabilities with property `dummyCapability = true` since they are invalid. API will suppress once MODROLESKC-285 is completed, but this immediately fixes the issue in the UI.
 
 # [2.0.0](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.0) (2025-03-13)
+[Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v1.0.3...v2.0.0)
 
 * *BREAKING* [UISAUTHCOM-46](https://folio-org.atlassian.net/browse/UISAUTHCOM-46) migrate react-intl to v7.
 * *BREAKING* [UISAUTHCOM-50](https://folio-org.atlassian.net/browse/UISAUTHCOM-50) migrate stripes dependencies to their Sunflower versions.
-
-## 1.1.0
-
 * [UISAUTHCOM-44](https://folio-org.atlassian.net/browse/UISAUTHCOM-44) Add Deque Axe a11y tests.
 * [UISAUTHCOM-47](https://folio-org.atlassian.net/browse/UISAUTHCOM-47) Retry get publication details request for `404` response status.
 * [UISAUTHCOM-49](https://folio-org.atlassian.net/browse/UISAUTHCOM-49) put regular role type when duplicating.
