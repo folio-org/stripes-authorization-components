@@ -1,5 +1,9 @@
 # Change history for stripes-authorization-components
 
+## IN PROGRESS
+
+* [UISAUTHCOM-59](https://folio-org.atlassian.net/browse/UISAUTHCOM-59) Increase request timeout in `useCreateRoleMutation`, `useEditRoleMutation` from default 30 seconds to 10 minutes. This can be decreased if back-end performance improves.
+
 # [2.0.3](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.3) (2025-04-30)
 [Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v2.0.2...v2.0.3)
 
