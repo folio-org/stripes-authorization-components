@@ -64,7 +64,7 @@
     "keycloak.records.checking": "Checking Keycloak records for the selected users",
     "crud.duplicate": "Дублювати",
     "crud.duplicateRole": "Дублювати роль?",
-    "crud.duplicateConfirmation": "Are you sure you want to create a duplicate of this role <b>{name}</b>?",
+    "crud.duplicateConfirmation": "Ви впевнені, що хочете створити дублікат цієї ролі <b>{name}</b>?",
     "applications.notAvailable": "Вибраний додаток недоступний",
     "crud.duplicate.suffix": "(дублювати)",
     "details.centrallyManaged": "Централізоване управління",
