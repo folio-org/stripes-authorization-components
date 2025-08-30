@@ -64,7 +64,7 @@
     "keycloak.records.checking": "Checking Keycloak records for the selected users",
     "crud.duplicate": "Duplicate",
     "crud.duplicateRole": "Duplicate role?",
-    "crud.duplicateConfirmation": "Are you sure you want to create a duplicate of this role <b>{name}</b>?",
+    "crud.duplicateConfirmation": "本当にこのロール<b>{name} </b> の複製を作成しますか？",
     "applications.notAvailable": "選択したアプリケーションは利用できません",
     "crud.duplicate.suffix": "(duplicate)",
     "details.centrallyManaged": "Centrally managed",
