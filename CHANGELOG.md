@@ -6,6 +6,7 @@
 * [UISAUTHCOM-59](https://folio-org.atlassian.net/browse/UISAUTHCOM-59) Increase request timeout in `useCreateRoleMutation`, `useEditRoleMutation` from default 30 seconds to 10 minutes. This can be decreased if back-end performance improves.
 * [UISAUTHCOM-65](https://folio-org.atlassian.net/browse/UISAUTHCOM-65) Provide the ability to pass props to control whether certain actions can be performed.
 * [UISAUTHCOM-66](https://folio-org.atlassian.net/browse/UISAUTHCOM-66) Suppress edit and delete menu buttons for default roles.
+* [UISAUTHCOM-67](https://folio-org.atlassian.net/browse/UISAUTHCOM-67) Match GET role capabilities query key to match edit request, so `react-query` `invalidateQueries()` is called and new data is fetched.
 
 # [2.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.2)
 
