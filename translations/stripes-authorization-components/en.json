@@ -90,5 +90,6 @@
   "keycloak.records.creation": "This operation will create new records in Keycloak for the following users: {users}",
   "keycloak.records.confirmationLabel": "Create user records in Keycloak",
   "keycloak.records.checking": "Checking Keycloak records for the selected users",
-  "keycloak.records.created": "Keycloak records created for the following users: {users}"
+  "keycloak.records.created": "Keycloak records created for the following users: {users}",
+  "keycloak.records.create.error": "Failed to create user records in keycloak for users: {users}: {error}"
 }
