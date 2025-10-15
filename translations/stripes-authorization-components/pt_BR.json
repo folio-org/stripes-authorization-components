@@ -88,5 +88,6 @@
     "role.type.regular": "Regular",
     "role.type.consortium": "Consórcio",
     "assignUnassign.modal.label": "Selecione o usuário ({tenant})",
-    "columns.header.checkbox": "Selecionar todas {action} de capacidades"
+    "columns.header.checkbox": "Selecionar todas {action} de capacidades",
+    "keycloak.records.create.error": "Falha ao criar registros de usuário no keycloak para usuários: {users} : {error}"
 }

@@ -88,5 +88,6 @@
     "role.type.regular": "定期",
     "role.type.consortium": "联盟",
     "assignUnassign.modal.label": "选择用户 ( {tenant} )",
-    "columns.header.checkbox": "选择所有{action}功能"
+    "columns.header.checkbox": "选择所有{action}功能",
+    "keycloak.records.create.error": "Failed to create user records in keycloak for users: {users}: {error}"
 }
