@@ -88,5 +88,6 @@
     "role.type.regular": "منتظم",
     "role.type.consortium": "اتحاد المكتبات",
     "assignUnassign.modal.label": "حدد المستخدم ( {tenant} )",
-    "columns.header.checkbox": "حدد كل إمكانيات {action} "
+    "columns.header.checkbox": "حدد كل إمكانيات {action} ",
+    "keycloak.records.create.error": "Failed to create user records in keycloak for users: {users}: {error}"
 }
