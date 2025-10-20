@@ -88,5 +88,6 @@
     "role.type.regular": "Регулярно",
     "role.type.consortium": "Консорціум",
     "assignUnassign.modal.label": "Вибрати користувача ({tenant})",
-    "columns.header.checkbox": "Вибрати всі можливості {action}"
+    "columns.header.checkbox": "Вибрати всі можливості {action}",
+    "keycloak.records.create.error": "Failed to create user records in keycloak for users: {users}: {error}"
 }
