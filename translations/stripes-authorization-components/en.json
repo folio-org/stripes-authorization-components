@@ -58,7 +58,7 @@
   "applications.totalSelected": "Total selected: {count}",
   "applications": "Applications",
   "applications.notAvailable": "Select application is not available",
-  "applications.unselect.warning": "By unselecting {appNames}, {capabilityCount} capabilities and {capabilitySetCount} capability sets will also be unselected.  Are you sure you’d like to proceed?",
+  "applications.unselect.warning": "By unselecting {appNames}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {capability} other {capabilities}} and <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {capability set} other {capability sets}} will also be unselected.  Are you sure you'd like to proceed?",
   "role-details.accordion-users.columns.fullName": "Name",
   "role-details.accordion-users.columns.patronGroup": "Patron group",
   "policy.edit": "Edit policy",
