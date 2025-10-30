@@ -89,5 +89,7 @@
     "role.type.consortium": "Consórcio",
     "assignUnassign.modal.label": "Selecione o usuário ({tenant})",
     "columns.header.checkbox": "Selecionar todas {action} de capacidades",
-    "keycloak.records.create.error": "Falha ao criar registros de usuário no keycloak para usuários: {users} : {error}"
+    "keycloak.records.create.error": "Falha ao criar registros de usuário no keycloak para usuários: {users} : {error}",
+    "applications.unselect.warning": "Ao desmarcar {appNames}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {capacidade} other {capacidades}} e <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {conjunto de capacidades} other {conjuntos de capacidades}} também serão desmarcados. Tem certeza de que deseja prosseguir?",
+    "warning": "Aviso"
 }
