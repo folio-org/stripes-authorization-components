@@ -89,5 +89,7 @@
     "role.type.consortium": "Konsorcjum",
     "assignUnassign.modal.label": "Wybierz użytkownika ({tenant})",
     "columns.header.checkbox": "Zaznacz wszystkie {action} możliwości",
-    "keycloak.records.create.error": "Failed to create user records in keycloak for users: {users}: {error}"
+    "keycloak.records.create.error": "Failed to create user records in keycloak for users: {users}: {error}",
+    "applications.unselect.warning": "By unselecting {appNames}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {capability} other {capabilities}} and <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {capability set} other {capability sets}} will also be unselected. Are you sure you'd like to proceed?",
+    "warning": "Ostrzeżenie"
 }
