@@ -1,5 +1,10 @@
 # Change history for stripes-authorization-components
 
+# [2.0.5](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.5) (2025-11-07)
+[Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v2.0.4...v2.0.5)
+
+* [UISAUTHCOM-70](https://folio-org.atlassian.net/browse/UISAUTHCOM-70) Fix slowness when typing in name/description fields, by having component re-render onBlur instead of every keystroke.
+
 # [2.0.4](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.4) (2025-05-13)
 [Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v2.0.3...v2.0.4)
 
