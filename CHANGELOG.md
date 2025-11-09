@@ -10,6 +10,7 @@
 * [UISAUTHCOM-68](https://folio-org.atlassian.net/browse/UISAUTHCOM-68) Group keycloak create errors together and ensure all user records in batch are attempted.
 * [UISAUTHCOM-70](https://folio-org.atlassian.net/browse/UISAUTHCOM-70) Fix slowness when typing in name/description fields, by having component re-render onBlur instead of every keystroke.
 * [UISAUTHCOM-69](https://folio-org.atlassian.net/browse/UISAUTHCOM-69) Display warning and require confirmation before unchecking an application for both Create and Edit Role.
+* [UISAUTHCOM-69](https://folio-org.atlassian.net/browse/UISAUTHCOM-69) Display warning and require confirmation before unchecking an application for both Create and Edit Role. Rename confirmation button from "Okay" to "Continue".
 * [UISAUTHCOM-72](https://folio-org.atlassian.net/browse/UISAUTHCOM-72) Pass `tenantId` prop to `<ViewMetaData>` component on the role details pane.
 
 # [2.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.2)
