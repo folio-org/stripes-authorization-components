@@ -18,7 +18,7 @@
     "columns.name": "Jméno",
     "columns.description": "Popis",
     "columns.updatedDate": "Aktualizováno",
-    "columns.updatedBy": "Aktualizoval",
+    "columns.updatedBy": "Aktualizoval/a",
     "assignedUsers": "Přiřazení uživatelé",
     "assignUnassign": "Přiřadit/Zrušit přiřazení",
     "generalInformation": "Obecné informace",
@@ -89,7 +89,7 @@
     "role.type.consortium": "Konsorcium",
     "assignUnassign.modal.label": "Vybrat uživatele ({tenant})",
     "columns.header.checkbox": "Vybrat všechny možnosti {action}",
-    "keycloak.records.create.error": "Failed to create user records in keycloak for users: {users}: {error}",
+    "keycloak.records.create.error": "Nepodařilo se vytvořit uživatelské záznamy v keycloaku pro uživatele: {users} : {error}",
     "applications.unselect.warning": "By unselecting {appNames}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {capability} other {capabilities}} and <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {capability set} other {capability sets}} will also be unselected. Are you sure you'd like to proceed?",
     "warning": "Warning"
 }

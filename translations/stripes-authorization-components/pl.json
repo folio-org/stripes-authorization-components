@@ -1,6 +1,6 @@
 {
-    "columns.application": "Application",
-    "columns.resource": "Resource",
+    "columns.application": "Aplikacja",
+    "columns.resource": "Zasób",
     "columns.view": "View",
     "columns.edit": "Edytuj",
     "columns.create": "Utwórz",
@@ -59,7 +59,7 @@
     "policy.create.error": "Nie można utworzyć reguły",
     "policy.edit.error": "Nie można zaktualizować reguły",
     "form.unassignAllCapabilities": "Anuluj przypisanie wszystkich możliwości/zestawów",
-    "keycloak.records.creation": "This operation will create new records in Keycloak for the following users: {users}",
+    "keycloak.records.creation": "Ta operacja utworzy nowe rekordy w Keycloak dla następujących użytkowników: {users}",
     "keycloak.records.confirmationLabel": "Create user records in Keycloak",
     "keycloak.records.checking": "Checking Keycloak records for the selected users",
     "crud.duplicate": "Powiel",
