@@ -91,5 +91,5 @@
     "columns.header.checkbox": "Vybrat všechny možnosti {action}",
     "keycloak.records.create.error": "Nepodařilo se vytvořit uživatelské záznamy v keycloaku pro uživatele: {users} : {error}",
     "applications.unselect.warning": "By unselecting {appNames}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {capability} other {capabilities}} and <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {capability set} other {capability sets}} will also be unselected. Are you sure you'd like to proceed?",
-    "warning": "Warning"
+    "warning": "Varování"
 }
