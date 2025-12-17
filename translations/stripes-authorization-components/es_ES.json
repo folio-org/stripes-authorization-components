@@ -90,6 +90,6 @@
     "assignUnassign.modal.label": "Select user ({tenant})",
     "columns.header.checkbox": "Select all {action} capabilities",
     "keycloak.records.create.error": "Failed to create user records in keycloak for users: {users}: {error}",
-    "applications.unselect.warning": "By unselecting {appNames}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {capability} other {capabilities}} and <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {capability set} other {capability sets}} will also be unselected. Are you sure you'd like to proceed?",
-    "warning": "Warning"
+    "applications.unselect.warning": "Al deseleccionar {appNames}, también se deseleccionarán las capacidades <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {} other {}} y <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {} other {}} . ¿Está seguro de que desea continuar?",
+    "warning": "Advertencia"
 }

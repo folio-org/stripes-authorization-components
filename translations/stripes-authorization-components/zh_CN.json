@@ -89,7 +89,7 @@
     "role.type.consortium": "联盟",
     "assignUnassign.modal.label": "选择用户 ( {tenant} )",
     "columns.header.checkbox": "选择所有{action}功能",
-    "keycloak.records.create.error": "Failed to create user records in keycloak for users: {users}: {error}",
-    "applications.unselect.warning": "By unselecting {appNames}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {capability} other {capabilities}} and <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {capability set} other {capability sets}} will also be unselected. Are you sure you'd like to proceed?",
-    "warning": "Warning"
+    "keycloak.records.create.error": "无法在 Keycloak 中为用户{users}创建用户记录 ： {error}",
+    "applications.unselect.warning": "取消选择 {appNames}， <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {能力} other {能力}} 和 <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {能力集} other {能力集}} 也将取消选中。确定要继续？",
+    "warning": "警告"
 }
