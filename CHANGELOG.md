@@ -13,6 +13,7 @@
 * [UISAUTHCOM-69](https://folio-org.atlassian.net/browse/UISAUTHCOM-69) Display warning and require confirmation before unchecking an application for both Create and Edit Role. Rename confirmation button from "Okay" to "Continue".
 * [UISAUTHCOM-72](https://folio-org.atlassian.net/browse/UISAUTHCOM-72) Pass `tenantId` prop to `<ViewMetaData>` component on the role details pane.
 * [UISAUTHCOM-73](https://folio-org.atlassian.net/browse/UISAUTHCOM-73) Include capabilities inside capability sets when calculating counts for warning when de-selecting an application assigned to a role.
+* [UISAUTHCOM-73](https://folio-org.atlassian.net/browse/UISAUTHCOM-76) Update the message for sharing a role to indicate that it can be a lengthy process.
 
 # [2.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.2)
 
