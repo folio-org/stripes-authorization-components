@@ -1,5 +1,10 @@
 # Change history for stripes-authorization-components
 
+# [2.0.6](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.6) (2025-12-25)
+[Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v2.0.5...v2.0.6)
+
+* [UISAUTHCOM-76](https://folio-org.atlassian.net/browse/UISAUTHCOM-76) Update the message for sharing a role to indicate that it can be a lengthy process.
+
 # [2.0.5](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.5) (2025-11-07)
 [Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v2.0.4...v2.0.5)
 
