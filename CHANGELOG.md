@@ -14,6 +14,7 @@
 * [UISAUTHCOM-72](https://folio-org.atlassian.net/browse/UISAUTHCOM-72) Pass `tenantId` prop to `<ViewMetaData>` component on the role details pane.
 * [UISAUTHCOM-73](https://folio-org.atlassian.net/browse/UISAUTHCOM-73) Include capabilities inside capability sets when calculating counts for warning when de-selecting an application assigned to a role.
 * [UISAUTHCOM-73](https://folio-org.atlassian.net/browse/UISAUTHCOM-73) Fix capability calculations to de-dupe individual capabilities and those contained within capability sets, so correct value is shown when de-selecting an application assigned to a role.
+* [UISAUTHCOM-76](https://folio-org.atlassian.net/browse/UISAUTHCOM-76) Update the message for sharing a role to indicate that it can be a lengthy process.
 
 # [2.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.2)
 
