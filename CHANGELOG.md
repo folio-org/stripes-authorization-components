@@ -1,6 +1,9 @@
 # Change history for stripes-authorization-components
 
-[UISAUTHCOM-81](https://folio-org.atlassian.net/browse/UISAUTHCOM-81) Increase default timeout for role mutations.
+# [2.0.8](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.8) (2026-01-05)
+[Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v2.0.7...v2.0.8)
+
+* [UISAUTHCOM-81](https://folio-org.atlassian.net/browse/UISAUTHCOM-81) Increase default timeout for role mutations.
 
 # [2.0.7](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.7) (2026-01-03)
 [Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v2.0.6...v2.0.7)

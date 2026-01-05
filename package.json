@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-authorization-components",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Component library for Stripes Authorization modules",
   "publishConfig": {
     "registry": "https://repository.folio.org/repository/npm-folio/"
