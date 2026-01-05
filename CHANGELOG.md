@@ -1,9 +1,11 @@
 # Change history for stripes-authorization-components
 
-# [2.0.7](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.7) (2025-01-03)
+[UISAUTHCOM-81](https://folio-org.atlassian.net/browse/UISAUTHCOM-81) Increase default timeout for role mutations.
+
+# [2.0.7](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.7) (2026-01-03)
 [Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v2.0.6...v2.0.7)
 
-* [UISAUTHCOM-78](https://folio-org.atlassian.net/browse/UISAUTHCOM-78) Refactor timeout handling by introducing TIMEOUT constant for useOkapiKy in role sharing and delete role mutation hooks
+* [UISAUTHCOM-78](https://folio-org.atlassian.net/browse/UISAUTHCOM-78) Refactor timeout handling by introducing TIMEOUT constant for useOkapiKy in role sharing and delete role mutation hooks.
 
 # [2.0.6](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.6) (2025-12-25)
 [Full Changelog](https://github.com/folio-org/stripes-authorization-components/compare/v2.0.5...v2.0.6)
