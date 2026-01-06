@@ -17,6 +17,7 @@
 * [UISAUTHCOM-76](https://folio-org.atlassian.net/browse/UISAUTHCOM-76) Update the message for sharing a role to indicate that it can be a lengthy process.
 * [UISAUTHCOM-78](https://folio-org.atlassian.net/browse/UISAUTHCOM-78) Refactor timeout handling by introducing TIMEOUT constant for useOkapiKy in role sharing and delete role mutation hooks.
 * [UISAUTHCOM-81](https://folio-org.atlassian.net/browse/UISAUTHCOM-81) Increase default timeout for role mutations.
+* [UISAUTHCOM-74](https://folio-org.atlassian.net/browse/UISAUTHCOM-74) When previously saved capability sets are deselected, child capabilities are now deselected too.
 
 # [2.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.2)
 
