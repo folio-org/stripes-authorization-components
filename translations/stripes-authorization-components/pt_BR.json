@@ -91,5 +91,6 @@
     "columns.header.checkbox": "Selecionar todas {action} de capacidades",
     "keycloak.records.create.error": "Falha ao criar registros de usuário no keycloak para usuários: {users} : {error}",
     "applications.unselect.warning": "Ao desmarcar {appNames}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {capacidade} other {capacidades}} e <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {conjunto de capacidades} other {conjuntos de capacidades}} também serão desmarcados. Tem certeza de que deseja prosseguir?",
-    "warning": "Aviso"
+    "warning": "Aviso",
+    "consortiumManager.modal.confirmShare.all.message": "<p>Tem certeza de que deseja compartilhar {term} com <b>TODOS os membros de</b>? </p><p> Observação: o compartilhamento de uma função com muitos recursos ou conjuntos de recursos pode levar vários minutos para ser concluído, especialmente em sistemas com um grande número de membros. Evite atualizar ou fechar esta página durante o processo.</p>"
 }

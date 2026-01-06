@@ -91,5 +91,6 @@
     "columns.header.checkbox": "Alles selecteren {action} mogelijkheden",
     "keycloak.records.create.error": "Failed to create user records in keycloak for gebruikers: {users}: {error}",
     "applications.unselect.warning": "Door de selectie ongedaan te maken {appNames}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {vermogen} other {capabilities}} en <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {vermogensset} other {vermogenssets}} zal ook niet geselecteerd zijn. Weet u zeker dat u verder wilt gaan?",
-    "warning": "Waarschuwing"
+    "warning": "Waarschuwing",
+    "consortiumManager.modal.confirmShare.all.message": "<p>Weet u zeker dat u dit wilt delen? {Voorwaarde} met <b>ALL</b> leden? </p><p> Opmerking: Het delen van een rol met veel mogelijkheden of mogelijkhedenreeksen kan enkele minuten duren, vooral in systemen met een groot aantal leden. Vernieuw of sluit deze Bladzijde niet tijdens het proces.</p>"
 }
