@@ -34,7 +34,7 @@
     "crud.edit": "編集",
     "crud.delete": "削除",
     "form.labels.name": "名称",
-    "form.labels.description": "Description",
+    "form.labels.description": "説明",
     "form.labels.multiplePolicies": "Multiple policies on action {action}",
     "applications.select": "アプリケーションの選択",
     "applications.found": "{count} applications found",
@@ -82,7 +82,7 @@
     "role.edit.success": "Role has been updated successfully",
     "role.share.error": "Role could not be shared",
     "role.share.success": "Role has been shared successfully",
-    "columns.type": "Type",
+    "columns.type": "タイプ",
     "role.type.default": "Default",
     "role.type.support": "Support",
     "role.type.regular": "Regular",
@@ -91,5 +91,6 @@
     "columns.header.checkbox": "Select all {action} capabilities",
     "keycloak.records.create.error": "Failed to create user records in keycloak for users: {users}: {error}",
     "applications.unselect.warning": "By unselecting {appNames}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {capability} other {capabilities}} and <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {capability set} other {capability sets}} will also be unselected. Are you sure you'd like to proceed?",
-    "warning": "Warning"
+    "warning": "Warning",
+    "consortiumManager.modal.confirmShare.all.message": "<p>Are you sure you want to share {term} with <b>ALL</b> members? </p><p> Please note: Sharing a role with many capabilities or capability sets can take several minutes to complete, especially in systems with a large number of members. Avoid refreshing or closing this page during the process.</p>"
 }

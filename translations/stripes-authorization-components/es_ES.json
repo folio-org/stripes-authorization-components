@@ -91,5 +91,6 @@
     "columns.header.checkbox": "Select all {action} capabilities",
     "keycloak.records.create.error": "Failed to create user records in keycloak for users: {users}: {error}",
     "applications.unselect.warning": "Al deseleccionar {appNames}, también se deseleccionarán las capacidades <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {} other {}} y <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {} other {}} . ¿Está seguro de que desea continuar?",
-    "warning": "Advertencia"
+    "warning": "Advertencia",
+    "consortiumManager.modal.confirmShare.all.message": "<p>Are you sure you want to share {term} with <b>ALL</b> members? </p><p> Please note: Sharing a role with many capabilities or capability sets can take several minutes to complete, especially in systems with a large number of members. Avoid refreshing or closing this page during the process.</p>"
 }
