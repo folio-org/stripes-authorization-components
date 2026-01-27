@@ -90,6 +90,7 @@
     "assignUnassign.modal.label": "Vybrat uživatele ({tenant})",
     "columns.header.checkbox": "Vybrat všechny možnosti {action}",
     "keycloak.records.create.error": "Nepodařilo se vytvořit uživatelské záznamy v keycloaku pro uživatele: {users} : {error}",
-    "applications.unselect.warning": "By unselecting {appNames}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {capability} other {capabilities}} and <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {capability set} other {capability sets}} will also be unselected. Are you sure you'd like to proceed?",
-    "warning": "Varování"
+    "applications.unselect.warning": "Zrušením výběru {appNames}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {schopnosti} other {schopnosti/í}} a <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {sada schopností} other {sad/y schopností}} bude také zrušen výběr. Jste si jisti, že chcete pokračovat?",
+    "warning": "Varování",
+    "consortiumManager.modal.confirmShare.all.message": "<p>Jste si jisti, že chcete sdílet {term} se <b>VŠEMI</b> členy ? </p><p> POZOR: Sdílení role s mnoha schopnostmi nebo sadami schopností může trvat několik minut, zejména v systémech s velkým počtem členů. Během procesu se vyhněte obnovování nebo zavírání této stránky.</p>"
 }
