@@ -9,7 +9,6 @@
 * [UISAUTHCOM-67](https://folio-org.atlassian.net/browse/UISAUTHCOM-67) Match GET role capabilities query key to match edit request, so `react-query` `invalidateQueries()` is called and new data is fetched.
 * [UISAUTHCOM-68](https://folio-org.atlassian.net/browse/UISAUTHCOM-68) Group keycloak create errors together and ensure all user records in batch are attempted.
 * [UISAUTHCOM-70](https://folio-org.atlassian.net/browse/UISAUTHCOM-70) Fix slowness when typing in name/description fields, by having component re-render onBlur instead of every keystroke.
-* [UISAUTHCOM-69](https://folio-org.atlassian.net/browse/UISAUTHCOM-69) Display warning and require confirmation before unchecking an application for both Create and Edit Role.
 * [UISAUTHCOM-69](https://folio-org.atlassian.net/browse/UISAUTHCOM-69) Display warning and require confirmation before unchecking an application for both Create and Edit Role. Rename confirmation button from "Okay" to "Continue".
 * [UISAUTHCOM-72](https://folio-org.atlassian.net/browse/UISAUTHCOM-72) Pass `tenantId` prop to `<ViewMetaData>` component on the role details pane.
 * [UISAUTHCOM-73](https://folio-org.atlassian.net/browse/UISAUTHCOM-73) Include capabilities inside capability sets when calculating counts for warning when de-selecting an application assigned to a role.
@@ -17,7 +16,7 @@
 * [UISAUTHCOM-76](https://folio-org.atlassian.net/browse/UISAUTHCOM-76) Update the message for sharing a role to indicate that it can be a lengthy process.
 * [UISAUTHCOM-78](https://folio-org.atlassian.net/browse/UISAUTHCOM-78) Refactor timeout handling by introducing TIMEOUT constant for useOkapiKy in role sharing and delete role mutation hooks.
 * [UISAUTHCOM-81](https://folio-org.atlassian.net/browse/UISAUTHCOM-81) Increase default timeout for role mutations.
-* [UISAUTHCOM-74](https://folio-org.atlassian.net/browse/UISAUTHCOM-74) When previously saved capability sets are deselected, child capabilities are now deselected too.
+* [UISAUTHCOM-74](https://folio-org.atlassian.net/browse/UISAUTHCOM-74) When previously saved capability sets are deselected, child capabilities are now deselected too. Also, ensure that deselecting a column of capability sets also deslects all child capabilities.
 
 # [2.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.2)
 

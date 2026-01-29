@@ -9,6 +9,7 @@
 
 # production
 /build
+/translations/**/compiled/*
 
 # misc
 .DS_Store
