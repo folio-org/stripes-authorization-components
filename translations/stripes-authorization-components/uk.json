@@ -18,7 +18,7 @@
     "columns.name": "Ім'я/Назва",
     "columns.description": "Опис",
     "columns.updatedDate": "Оновлено",
-    "columns.updatedBy": "Оновлено за",
+    "columns.updatedBy": "Оновлено (ким)",
     "assignedUsers": "Призначені користувачі",
     "assignUnassign": "Призначити/Скасувати призначення",
     "generalInformation": "Загальна інформація",
