@@ -79,6 +79,8 @@
   "role.edit.error": "Role could not be updated",
   "role.edit.success": "Role has been updated successfully",
   "role.share.error": "Role could not be shared",
+  "role.share.error.duplicate": "Name is already in use at one or more member libraries - {tenants}.",
+  "role.share.error.validation": "Validation failed for the following tenants - {tenants}.",
   "role.share.success": "Role has been shared successfully",
   "role.type.default": "Default",
   "role.type.support": "Support",
