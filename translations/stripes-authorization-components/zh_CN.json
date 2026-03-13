@@ -92,5 +92,7 @@
     "keycloak.records.create.error": "无法在 Keycloak 中为用户{users}创建用户记录 ： {error}",
     "applications.unselect.warning": "取消选择 {appNames}， <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {能力} other {能力}} 和 <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {能力集} other {能力集}} 也将取消选中。确定要继续？",
     "warning": "警告",
-    "consortiumManager.modal.confirmShare.all.message": "<p>Are you sure you want to share {term} with <b>ALL</b> members? </p><p> Please note: Sharing a role with many capabilities or capability sets can take several minutes to complete, especially in systems with a large number of members. Avoid refreshing or closing this page during the process.</p>"
+    "consortiumManager.modal.confirmShare.all.message": "<p>确定要与<b>所有</b>成员共享 {term} 吗？</p><p> 请注意：共享一个具有多种能力或能力集的角色可能需要几分钟才能完成，尤其是在具有大量成员的系统中。在此过程中，请避免刷新或关闭此页面。</p>",
+    "role.share.error.duplicate": "该名称已在一个或多个成员图书馆使用 - {tenants}。",
+    "role.share.error.validation": "以下租户验证失败 - {tenants}。"
 }
