@@ -19,6 +19,7 @@
 * [UISAUTHCOM-74](https://folio-org.atlassian.net/browse/UISAUTHCOM-74) When previously saved capability sets are deselected, child capabilities are now deselected too. Also, ensure that deselecting a column of capability sets also deslects all child capabilities.
 * [UISAUTHCOM-86](https://folio-org.atlassian.net/browse/UISAUTHCOM-86) Handling sharing of a role when an authorization role with the same name already exists in data tenant.
 * [UISAUTHCOM-88](https://folio-org.atlassian.net/browse/UISAUTHCOM-88) Escape CQL values on sharing validation request.
+* [UISAUTHCOM-87](https://folio-org.atlassian.net/browse/UISAUTHCOM-87) OmittheerrantwhitespacethattripsupPluggable's`children`'slengthcalculation.
 * [UISAUTHCOM-83](https://folio-org.atlassian.net/browse/UISAUTHCOM-83) Preserve session-selected capabilities when unchecking a capability set that includes them. Keep `isInitialDataReady` false while fetching data to prevent data from being displayed after the page is reopened.
 
 # [2.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.2)

@@ -92,5 +92,7 @@
     "keycloak.records.create.error": "Failed to create user records in keycloak for kullanıcılar: {users}: {error}",
     "applications.unselect.warning": "Seçimi kaldırarak {appNames}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {yetenek} other {capabilities}} ve <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {yetenek seti} other {yetenek setleri}} ayrıca seçili olmayacaktır. Devam etmek istediğinizden emin misiniz?",
     "warning": "Uyarı",
-    "consortiumManager.modal.confirmShare.all.message": "<p>Paylaşmak istediğinizden emin misiniz? {term} <b>TÜM</b> üyelerle mi?</p><p>Lütfen dikkat: Özellikle çok sayıda üyesi olan sistemlerde, birçok yetenek veya yetenek kümesi içeren bir rolün paylaşılması birkaç dakika sürebilir. İşlem sırasında bu sayfayı yenilemekten veya kapatmaktan kaçının.</p>"
+    "consortiumManager.modal.confirmShare.all.message": "<p>Paylaşmak istediğinizden emin misiniz? {term} <b>TÜM</b> üyelerle mi?</p><p>Lütfen dikkat: Özellikle çok sayıda üyesi olan sistemlerde, birçok yetenek veya yetenek kümesi içeren bir rolün paylaşılması birkaç dakika sürebilir. İşlem sırasında bu sayfayı yenilemekten veya kapatmaktan kaçının.</p>",
+    "role.share.error.duplicate": "Name is already in use at one or more member libraries - {tenants}.",
+    "role.share.error.validation": "Validation failed for the following tenants - {tenants}."
 }
