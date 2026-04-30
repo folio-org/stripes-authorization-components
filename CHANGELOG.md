@@ -22,6 +22,7 @@
 * [UISAUTHCOM-87](https://folio-org.atlassian.net/browse/UISAUTHCOM-87) OmittheerrantwhitespacethattripsupPluggable's`children`'slengthcalculation.
 * [UISAUTHCOM-83](https://folio-org.atlassian.net/browse/UISAUTHCOM-83) Preserve session-selected capabilities when unchecking a capability set that includes them. Keep `isInitialDataReady` false while fetching data to prevent data from being displayed after the page is reopened.
 * [UISAUTHCOM-90](https://folio-org.atlassian.net/browse/UISAUTHCOM-90) Add validation to ensure role names are unique across tenants when editing shared authorization roles.
+* [UISAUTHCOM-73](https://folio-org.atlassian.net/browse/UISAUTHCOM-73) Include capabilities actions when calculating counts for warning when de-selecting an application assigned to a role.
 * [UISAUTHCOM-93](https://folio-org.atlassian.net/browse/UISAUTHCOM-93) Send full object body in PUT /roles request.
 
 # [2.0.2](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.2)
