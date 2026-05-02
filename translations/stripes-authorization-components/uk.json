@@ -89,10 +89,10 @@
     "role.type.consortium": "Консорціум",
     "assignUnassign.modal.label": "Вибрати користувача ({tenant})",
     "columns.header.checkbox": "Вибрати всі можливості {action}",
-    "keycloak.records.create.error": "Failed to create user records in keycloak for users: {users}: {error}",
+    "keycloak.records.create.error": "Не вдалося створити записи користувачів у keycloak для таких користувачів: {users}: {error}",
     "applications.unselect.warning": "Якщо зняти позначку {appNames}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {можливість} other {можливості}} та <strong>{capabilitySetsCount, number}</strong> {capabilitySetsCount, plural, one {набір можливостей} other {набори можливостей}} також будуть зняті. Ви впевнені, що хочете продовжити?",
-    "warning": "Warning",
+    "warning": "Попередження",
     "consortiumManager.modal.confirmShare.all.message": "<p>Are you sure you want to share {term} with <b>ALL</b> members? </p><p> Please note: Sharing a role with many capabilities or capability sets can take several minutes to complete, especially in systems with a large number of members. Avoid refreshing or closing this page during the process.</p>",
-    "role.share.error.duplicate": "Name is already in use at one or more member libraries - {tenants}.",
-    "role.share.error.validation": "Validation failed for the following tenants - {tenants}."
+    "role.share.error.duplicate": "Назва вже використовується в одній або кількох бібліотеках-учасниках - {tenants}.",
+    "role.share.error.validation": "Перевірку не пройшли наступні клієнти (тенанти) - {tenants}."
 }
