@@ -43,6 +43,8 @@ export const buildStripes = (otherProperties = {}) => ({
   ...otherProperties,
 });
 
+export const mockPluggableOnClose = jest.fn();
+
 const STRIPES = buildStripes({ discovery: {
   applications:{
     'app-1': 'app-1'
@@ -92,7 +94,27 @@ const mockStripesCore = {
   },
 
   // eslint-disable-next-line react/prop-types
-  Pluggable: jest.fn(({ children }) => [children]),
+  Pluggable: jest.fn(({
+    checkedAppIdsMap,
+    children,
+    onSave,
+    renderTrigger,
+  }) => {
+    if (renderTrigger) {
+      return (
+        <div data-testid="pluggable-select-application">
+          {renderTrigger({
+            'data-testid': 'select-application-trigger',
+            onClick: () => onSave?.(checkedAppIdsMap, mockPluggableOnClose),
+          })}
+          <div>{children}</div>
+        </div>
+      );
+    }
+
+    return [children];
+  }),
+  mockPluggableOnClose,
 
   // eslint-disable-next-line react/prop-types
   IfPermission: jest.fn(props => <>{props.children}</>),

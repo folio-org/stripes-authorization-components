@@ -5,6 +5,7 @@
 * [UISAUTHCOM-73](https://folio-org.atlassian.net/browse/UISAUTHCOM-73) Include capabilities actions when calculating counts for warning when de-selecting an application assigned to a role.
 * [UISAUTHCOM-93](https://folio-org.atlassian.net/browse/UISAUTHCOM-93) Send full object body in PUT /roles request.
 * [UIROLES-170](https://folio-org.atlassian.net/browse/UIROLES-170) Allow Save button to be enabled after first character entered in required `Role Name` field.
+* [UISAUTHCOM-98](https://folio-org.atlassian.net/browse/UISAUTHCOM-98) Display warning and require confirmation before unchecking a capability set.
 
 # [2.1.0](https://github.com/folio-org/stripes-authorization-components/tree/v2.1.0)
 
