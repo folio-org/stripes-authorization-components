@@ -39,6 +39,7 @@
   "crud.delete": "Delete",
   "form.unassignAllCapabilities": "Unassign all capabilities/sets",
   "form.labels.name": "Name",
+  "form.errors.name.invalidCharacter": "Name cannot contain the \"/\" character",
   "crud.duplicate": "Duplicate",
   "crud.duplicate.suffix": "(duplicate)",
   "crud.duplicateRole": "Duplicate role?",
