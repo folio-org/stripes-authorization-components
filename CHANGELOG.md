@@ -1,5 +1,9 @@
 # Change history for stripes-authorization-components
 
+# IN-PROGRESS
+
+* [UISAUTHCOM-97](https://folio-org.atlassian.net/browse/UISAUTHCOM-97) Add validation to RoleForm for Role Name. Disallowed forward slash "/" and required the name field for form submission.
+
 # [2.2.0](https://github.com/folio-org/stripes-authorization-components/tree/v2.2.0)
 
 * [UISAUTHCOM-73](https://folio-org.atlassian.net/browse/UISAUTHCOM-73) Include capabilities actions when calculating counts for warning when de-selecting an application assigned to a role.
