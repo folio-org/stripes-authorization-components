@@ -31,7 +31,9 @@
   "columns.header.checkbox": "Select all {action} capabilities",
   "crud.createRole": "Create role",
   "crud.deleteRole": "Delete role",
+  "crud.assignedRoleDeletion": "Delete currently assigned role",
   "crud.deleteRoleConfirmation": "{rolename} will be deleted",
+  "crud.deleteAssignedRoleConfirmation": "<strong>Warning:</strong>  You are deleting a role which you are assigned to: <strong>{rolename})</strong>  <br />You may lose some privileges if you choose to proceed.<br />  <strong>Are you sure you want to do this?</strong>",
   "crud.editRole": "Edit role",
   "crud.cancel": "Cancel",
   "crud.selectApplication": "Select application",
@@ -73,7 +75,6 @@
   "policy.share.error": "Policy could not be shared",
   "policyDetails.columns.name": "Name",
   "policyDetails.columns.description": "Description",
-
   "role.create.success": "Role has been created successfully",
   "role.create.error": "Role could not be created",
   "role.delete.success": "Role has been deleted successfully",
@@ -88,9 +89,8 @@
   "role.type.support": "Support",
   "role.type.regular": "Regular",
   "role.type.consortium": "Consortium",
-
+  "consortiumManager.modal.confirmShare.all.heading": "Confirm share to all",
   "consortiumManager.modal.confirmShare.all.message": "<p>Are you sure you want to share {term} with <b>ALL</b> members? </p><p> Please note: Sharing a role with many capabilities or capability sets can take several minutes to complete, especially in systems with a large number of members. Avoid refreshing or closing this page during the process.</p>",
-
   "filter.true": "Yes",
   "filter.false": "No",
   "shareToAll": "Share to all",
