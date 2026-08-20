@@ -170,6 +170,7 @@ jest.mock('@folio/stripes/components', () => ({
     );
   }),
   TextField: jest.fn(({
+    error,
     input = {},
     label,
     onChange,
@@ -192,6 +193,7 @@ jest.mock('@folio/stripes/components', () => ({
           required={required}
           value={value ?? input.value}
         />
+        {error && <div data-testid={`${id}-error`}>{error}</div>}
       </>
     );
   }),
