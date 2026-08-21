@@ -3,6 +3,7 @@
 # IN-PROGRESS
 
 * [UISAUTHCOM-97](https://folio-org.atlassian.net/browse/UISAUTHCOM-97) Add validation to RoleForm for Role Name. Disallowed forward slash "/" and required the name field for form submission.
+* [UISAUTHCOM-102](https://folio-org.atlassian.net/browse/UISAUTHCOM-102) Add `SessionConfirmationModal` for when a user is deleting a role that belongs to them.
 
 # [2.2.0](https://github.com/folio-org/stripes-authorization-components/tree/v2.2.0)
 
