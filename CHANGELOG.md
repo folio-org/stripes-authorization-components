@@ -3,6 +3,7 @@
 # IN-PROGRESS
 
 * [UISAUTHCOM-97](https://folio-org.atlassian.net/browse/UISAUTHCOM-97) Add validation to RoleForm for Role Name. Disallowed forward slash "/" and required the name field for form submission.
+* [UISAUTHCOM-96](https://folio-org.atlassian.net/browse/UISAUTHCOM-96) Some capabilities not shown when editing a role but shown in its detail view.
 
 # [2.2.0](https://github.com/folio-org/stripes-authorization-components/tree/v2.2.0)
 
