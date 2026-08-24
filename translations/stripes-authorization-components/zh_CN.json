@@ -94,5 +94,6 @@
     "warning": "警告",
     "consortiumManager.modal.confirmShare.all.message": "<p>确定要与<b>所有</b>成员共享 {term} 吗？</p><p> 请注意：共享一个具有多种能力或能力集的角色可能需要几分钟才能完成，尤其是在具有大量成员的系统中。在此过程中，请避免刷新或关闭此页面。</p>",
     "role.share.error.duplicate": "该名称已在一个或多个成员图书馆使用 - {tenants}。",
-    "role.share.error.validation": "以下租户验证失败 - {tenants}。"
+    "role.share.error.validation": "以下租户验证失败 - {tenants}。",
+    "capabilitySets.unselect.warning": "By unselecting {capabilitySet}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {capability} other {capabilities}} will also be unselected.  Are you sure you'd like to proceed?"
 }
