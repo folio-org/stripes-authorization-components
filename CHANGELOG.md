@@ -4,13 +4,14 @@
 
 * [UISAUTHCOM-97](https://folio-org.atlassian.net/browse/UISAUTHCOM-97) Add validation to RoleForm for Role Name. Disallowed forward slash "/" and required the name field for form submission.
 * [UISAUTHCOM-102](https://folio-org.atlassian.net/browse/UISAUTHCOM-102) Add `SessionConfirmationModal` for when a user is deleting a role that belongs to them.
+* [UISAUTHCOM-96](https://folio-org.atlassian.net/browse/UISAUTHCOM-96) Some capabilities not shown when editing a role but shown in its detail view.
 
 # [2.2.0](https://github.com/folio-org/stripes-authorization-components/tree/v2.2.0)
 
 * [UISAUTHCOM-73](https://folio-org.atlassian.net/browse/UISAUTHCOM-73) Include capabilities actions when calculating counts for warning when de-selecting an application assigned to a role.
 * [UISAUTHCOM-93](https://folio-org.atlassian.net/browse/UISAUTHCOM-93) Send full object body in PUT /roles request.
 * [UIROLES-170](https://folio-org.atlassian.net/browse/UIROLES-170) Allow Save button to be enabled after first character entered in required `Role Name` field.
-* [UISAUTHCOM-98](https://folio-org.atlassian.net/browse/UISAUTHCOM-98) Display warning and require confirmation before unchecking a capability set.
+* [UISAUTHCOM-98](https://folio-org.atlassian.net/browse/UISAUTHCOM-98) Display warning and require confirmation before unchecking a capability set. Modals will allow for suppression for the rest of the session.
 
 # [2.1.0](https://github.com/folio-org/stripes-authorization-components/tree/v2.1.0)
 

@@ -94,5 +94,6 @@
     "warning": "Uyarı",
     "consortiumManager.modal.confirmShare.all.message": "<p>Paylaşmak istediğinizden emin misiniz? {term} <b>TÜM</b> üyelerle mi?</p><p>Lütfen dikkat: Özellikle çok sayıda üyesi olan sistemlerde, birçok yetenek veya yetenek kümesi içeren bir rolün paylaşılması birkaç dakika sürebilir. İşlem sırasında bu sayfayı yenilemekten veya kapatmaktan kaçının.</p>",
     "role.share.error.duplicate": "Name is already in use at one or more member libraries - {tenants}.",
-    "role.share.error.validation": "Validation failed for the following tenants - {tenants}."
+    "role.share.error.validation": "Validation failed for the following tenants - {tenants}.",
+    "capabilitySets.unselect.warning": "By unselecting {capabilitySet}, <strong>{capabilitiesCount, number}</strong> {capabilitiesCount, plural, one {capability} other {capabilities}} will also be unselected.  Are you sure you'd like to proceed?"
 }
