@@ -9,6 +9,7 @@
   "assignedUsers": "Assigned users",
   "assignUnassign": "Assign/Unassign",
   "assignUnassign.modal.label": "Select user ({tenant})",
+  "assignUnassign.error.username": "User assignment aborted.  This operation requires all users involved to have a username.",
   "generalInformation": "General Information",
   "details.capabilities": "Capabilities",
   "details.capabilitySets": "Capability sets",
