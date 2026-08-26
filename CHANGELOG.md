@@ -4,6 +4,7 @@
 
 * [UISAUTHCOM-97](https://folio-org.atlassian.net/browse/UISAUTHCOM-97) Add validation to RoleForm for Role Name. Disallowed forward slash "/" and required the name field for form submission.
 * [UISAUTHCOM-96](https://folio-org.atlassian.net/browse/UISAUTHCOM-96) Some capabilities not shown when editing a role but shown in its detail view.
+* [UISAUTHCOM-104](https://folio-org.atlassian.net/browse/UISAUTHCOM-104) Fix Role duplication error (role name cannot contain forward slashes) by replacing them in the date string with '-'.
 * [UISAUTHCOM-103](https://folio-org.atlassian.net/browse/UISAUTHCOM-103) Show error and abort role assigment if a selected user does not have a username.
 
 # [2.2.0](https://github.com/folio-org/stripes-authorization-components/tree/v2.2.0)
