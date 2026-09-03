@@ -1,6 +1,6 @@
 # Change history for stripes-authorization-components
 
-# 2.0.9 IN-PROGRESS
+# [2.0.9](https://github.com/folio-org/stripes-authorization-components/tree/v2.0.9) (2026-09-03)
 * [UISAUTHCOM-83](https://folio-org.atlassian.net/browse/UISAUTHCOM-83) Keep `isInitialDataReady` false while fetching data to prevent data from being displayed after the page is reopened.
 * [UISAUTHCOM-96](https://folio-org.atlassian.net/browse/UISAUTHCOM-96) Some capabilities not shown when editing a role but shown in its detail view.
 
