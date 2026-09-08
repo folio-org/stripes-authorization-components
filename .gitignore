@@ -23,7 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Ignore
-yarn.lock
 .sass-cache/*
 .css.map/*
 **/.sass-cache/*
