@@ -19,7 +19,7 @@
   "devDependencies": {
     "@babel/core": "^7.18.6",
     "@folio/eslint-config-stripes": "^8.0.0",
-    "@folio/jest-config-stripes": "^3.0.0",
+    "@folio/jest-config-stripes": "^4.0.0",
     "@folio/stripes": "^10.0.0",
     "@folio/stripes-cli": "^4.0.0",
     "history": "^4.10.1",
@@ -37,6 +37,9 @@
     "lodash": "^4.17.21",
     "prop-types": "^15.7.2",
     "react-final-form": "^6.3.0"
+  },
+  "resolutions": {
+    "@folio/stripes-components": "13.1.1099000000001744"
   },
   "peerDependencies": {
     "@folio/stripes": "^10.0.0",
