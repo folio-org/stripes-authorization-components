@@ -1,5 +1,9 @@
 # Change history for stripes-authorization-components
 
+# 2.2.1 IN-PROGRESS
+* [UISAUTHCOM-83](https://folio-org.atlassian.net/browse/UISAUTHCOM-83) Keep `isInitialDataReady` false while fetching data to prevent data from being displayed after the page is reopened.
+* [UISAUTHCOM-96](https://folio-org.atlassian.net/browse/UISAUTHCOM-96) Some capabilities not shown when editing a role but shown in its detail view.
+
 # [2.2.0](https://github.com/folio-org/stripes-authorization-components/tree/v2.2.0)
 
 * [UISAUTHCOM-73](https://folio-org.atlassian.net/browse/UISAUTHCOM-73) Include capabilities actions when calculating counts for warning when de-selecting an application assigned to a role.
@@ -80,7 +84,7 @@
 * [UISAUTHCOM-12](https://folio-org.atlassian.net/browse/UISAUTHCOM-12) Ensure support for the passed `tenantId` value for manipulations in the context of a specific tenant.
 * [UISAUTHCOM-17](https://folio-org.atlassian.net/browse/UISAUTHCOM-17) Create reusable components for editing, saving Authorization policies for the consortium.
 * [UISAUTHCOM-15](https://folio-org.atlassian.net/browse/UISAUTHCOM-15) Check if user exists in Keycloak on assign users to role. If not show confirmation dialog to create user records in Keycloak.
-* [UISAUTHCOM-18](https://folio-org.atlassian.net/browse/UISAUTHCOM-18) Add button to unassign all assigned capabilities/sets when editing an authorization role in RoleForm. 
+* [UISAUTHCOM-18](https://folio-org.atlassian.net/browse/UISAUTHCOM-18) Add button to unassign all assigned capabilities/sets when editing an authorization role in RoleForm.
 * [UISAUTHCOM-19](https://folio-org.atlassian.net/browse/UISAUTHCOM-19) Create reusable hooks and components for duplicate authorization role.
 * [UISAUTHCOM-22](https://folio-org.atlassian.net/browse/UISAUTHCOM-22) Move "Select application" button to the top of the role form
 * [UISAUTHCOM-14](https://folio-org.atlassian.net/browse/UISAUTHCOM-14) ECS - Support sharing of authorization roles and policies.
