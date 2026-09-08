@@ -38,9 +38,6 @@
     "prop-types": "^15.7.2",
     "react-final-form": "^6.3.0"
   },
-  "resolutions": {
-    "@folio/stripes-components": "13.1.1099000000001744"
-  },
   "peerDependencies": {
     "@folio/stripes": "^10.0.0",
     "react": "^18.2.0",
