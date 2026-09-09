@@ -3,6 +3,7 @@
 # IN-PROGRESS
 
 * [UISAUTHCOM-97](https://folio-org.atlassian.net/browse/UISAUTHCOM-97) Add validation to RoleForm for Role Name. Disallowed forward slash "/" and required the name field for form submission.
+* [UISAUTHCOM-102](https://folio-org.atlassian.net/browse/UISAUTHCOM-102) Add `SessionConfirmationModal` for when a user is deleting a role that belongs to them.
 * [UISAUTHCOM-101](https://folio-org.atlassian.net/browse/UISAUTHCOM-101) Show/hid capabilities based on the "visible" attribute.
 * [UISAUTHCOM-96](https://folio-org.atlassian.net/browse/UISAUTHCOM-96) Some capabilities not shown when editing a role but shown in its detail view.
 * [UISAUTHCOM-104](https://folio-org.atlassian.net/browse/UISAUTHCOM-104) Fix Role duplication error (role name cannot contain forward slashes) by replacing them in the date string with '-'.
