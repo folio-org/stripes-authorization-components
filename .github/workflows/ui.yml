@@ -1,5 +1,5 @@
 name: Centralized workflow
-on: 
+on:
   - push
   - pull_request
   - workflow_dispatch
@@ -13,3 +13,4 @@ jobs:
     secrets: inherit
     with:
       sonar-sources: ./lib
+      folio-npm-registry: https://repository.folio.org/repository/npm-folio/
