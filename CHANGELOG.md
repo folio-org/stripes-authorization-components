@@ -10,6 +10,7 @@
 * [UISAUTHCOM-103](https://folio-org.atlassian.net/browse/UISAUTHCOM-103) Show error and abort role assigment if a selected user does not have a username.
 * [UISAUTHCOM-108](https://folio-org.atlassian.net/browse/UISAUTHCOM-108) Supply `assignedAppIdsMap` prop to the select applications modal.
 * [UISAUTHCOM-111](https://folio-org.atlassian.net/browse/UISAUTHCOM-111) Add `id` prop to Role details pane to resolve pane sizing issues.
+* [UISAUTHCOM-112](https://folio-org.atlassian.net/browse/UISAUTHCOM-112) Resolve issue with delayed loading spinners on Role Edit page.
 
 
 # [2.2.0](https://github.com/folio-org/stripes-authorization-components/tree/v2.2.0)
